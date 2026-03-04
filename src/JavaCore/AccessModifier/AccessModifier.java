@@ -1,4 +1,4 @@
-package JavaCore.video48;
+package JavaCore.AccessModifier;
 
 public class AccessModifier {
     /*

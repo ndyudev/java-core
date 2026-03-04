@@ -1,4 +1,4 @@
-package JavaCore.Overloading.Video43;
+package JavaCore.Overloading;
 /*
 Overloading (Nạp chồng phương thức) nghĩa là trong cùng một class
 bạn có nhiều phương thức cùng tên nhưng khác nhau về số lượng tham số

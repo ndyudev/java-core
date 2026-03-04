@@ -1,4 +1,4 @@
-package JavaCore.Overloading.Video43;
+package JavaCore.Overloading;
 
 public class MyMath {
 

@@ -1,4 +1,4 @@
-package JavaCore.Interface.Video46;
+package JavaCore.Interface;
 
 /*
 Interface trong Java - Java Core TiTV - Video 46

@@ -1,4 +1,4 @@
-package JavaCore.Interface.Video46;
+package JavaCore.Interface;
 
 public class SapXepChon implements SapXepInterface {
     @Override
