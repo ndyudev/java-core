@@ -1,4 +1,4 @@
-package JavaCore.practice.filemanage.entity;
+package learnjava.program.filemanage.entity;
 
 public enum Status {
     GOOD,

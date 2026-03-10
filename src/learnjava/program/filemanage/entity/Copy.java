@@ -1,6 +1,8 @@
-package JavaCore.practice.filemanage.entity;
+package learnjava.program.filemanage.entity;
 
-public class Copy {
+import java.io.Serializable;
+
+public class Copy implements Serializable {
     private String id;
     private String document_id;
     private Status status;
