@@ -20,8 +20,11 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+src/learnjava/program/filemanage/data/*.dat
 # === VSCode ===
 .vscode/
 
 # === macOS ===
 .DS_Store
+
+.gitignore
