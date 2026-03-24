@@ -20,7 +20,7 @@ bin/
 /nbdist/
 /.nb-gradle/
 
-src/learnjava/program/filemanage/data/*.dat
+src/javacore/program/filemanage/data/*.dat
 # === VSCode ===
 .vscode/
 
